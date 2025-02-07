@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercice02\bin\Debug\net8.0\Exercice02.exe
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercice02\bin\Debug\net8.0\Exercice02.deps.json
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercice02\bin\Debug\net8.0\Exercice02.runtimeconfig.json
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercice02\bin\Debug\net8.0\Exercice02.dll
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercice02\bin\Debug\net8.0\Exercice02.pdb
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercice02\obj\Debug\net8.0\Exercice02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercice02\obj\Debug\net8.0\Exercice02.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercice02\obj\Debug\net8.0\Exercice02.AssemblyInfo.cs
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercice02\obj\Debug\net8.0\Exercice02.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercice02\obj\Debug\net8.0\Exercice02.dll
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercice02\obj\Debug\net8.0\refint\Exercice02.dll
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercice02\obj\Debug\net8.0\Exercice02.pdb
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercice02\obj\Debug\net8.0\Exercice02.genruntimeconfig.cache
+C:\Users\Administrateur\Documents\TDD\Exercices\Exercice02\obj\Debug\net8.0\ref\Exercice02.dll

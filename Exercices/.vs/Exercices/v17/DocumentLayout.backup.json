@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58D3910A-C0F1-4117-95B9-0AAF1F5ABC33}|Exercice02Test\\Exercice02Test.csproj|c:\\users\\administrateur\\documents\\tdd\\exercices\\exercice02test\\fibtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D3910A-C0F1-4117-95B9-0AAF1F5ABC33}|Exercice02Test\\Exercice02Test.csproj|solutionrelative:exercice02test\\fibtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D3910A-C0F1-4117-95B9-0AAF1F5ABC33}|Exercice02Test\\Exercice02Test.csproj|c:\\users\\administrateur\\documents\\tdd\\exercices\\exercice02test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D3910A-C0F1-4117-95B9-0AAF1F5ABC33}|Exercice02Test\\Exercice02Test.csproj|solutionrelative:exercice02test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ABFC0E-9A7A-4127-B693-A5B47346A8C9}|Exercice01Test\\Exercice01Test.csproj|c:\\users\\administrateur\\documents\\tdd\\exercices\\exercice01test\\gradingcalculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ABFC0E-9A7A-4127-B693-A5B47346A8C9}|Exercice01Test\\Exercice01Test.csproj|solutionrelative:exercice01test\\gradingcalculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76603D7-291A-4E63-B547-5D90CB6F5842}|Exercice02\\Exercice02.csproj|c:\\users\\administrateur\\documents\\tdd\\exercices\\exercice02\\fib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76603D7-291A-4E63-B547-5D90CB6F5842}|Exercice02\\Exercice02.csproj|solutionrelative:exercice02\\fib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercice02Test\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "Exercice02Test\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercice02Test\\MSTestSettings.cs",
+              "RelativeToolTip": "Exercice02Test\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T08:20:55.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GradingCalculatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercice01Test\\GradingCalculatorTest.cs",
+              "RelativeDocumentMoniker": "Exercice01Test\\GradingCalculatorTest.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercice01Test\\GradingCalculatorTest.cs",
+              "RelativeToolTip": "Exercice01Test\\GradingCalculatorTest.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA0wBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T08:19:48.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FibTest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercice02Test\\FibTest.cs",
+              "RelativeDocumentMoniker": "Exercice02Test\\FibTest.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercice02Test\\FibTest.cs",
+              "RelativeToolTip": "Exercice02Test\\FibTest.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T08:18:20.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fib.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercice02\\Fib.cs",
+              "RelativeDocumentMoniker": "Exercice02\\Fib.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercice02\\Fib.cs",
+              "RelativeToolTip": "Exercice02\\Fib.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T08:11:28.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
