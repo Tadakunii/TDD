@@ -40,10 +40,9 @@
               "RelativeDocumentMoniker": "Exercice02Test\\MSTestSettings.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercice02Test\\MSTestSettings.cs",
               "RelativeToolTip": "Exercice02Test\\MSTestSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T08:20:55.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T08:20:55.914Z"
             },
             {
               "$type": "Document",
@@ -53,10 +52,9 @@
               "RelativeDocumentMoniker": "Exercice01Test\\GradingCalculatorTest.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercice01Test\\GradingCalculatorTest.cs",
               "RelativeToolTip": "Exercice01Test\\GradingCalculatorTest.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAA0wBAAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwBAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T08:19:48.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T08:19:48.331Z"
             },
             {
               "$type": "Document",
@@ -66,7 +64,7 @@
               "RelativeDocumentMoniker": "Exercice02Test\\FibTest.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Documents\\TDD\\Exercices\\Exercice02Test\\FibTest.cs",
               "RelativeToolTip": "Exercice02Test\\FibTest.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwEIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T08:18:20.6Z",
               "EditorCaption": ""
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Exercice02\\Fib.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T08:11:28.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T08:11:28.226Z"
             }
           ]
         }

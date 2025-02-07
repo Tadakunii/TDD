@@ -15,6 +15,10 @@ namespace Exercice03
 
         public List<String> Rechercher(String recherche)
         {
+            if(recherche.Length <2)
+            {
+                throw new NotImplementedException();
+            }
             throw new NotImplementedException();
         }
     }
